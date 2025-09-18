@@ -9,3 +9,4 @@ Vader wollte Starkiller als Werkzeug, um später Palpatine zu stürzen.
 
 -----
 
+[Zur Textdatei](pfad/zur/eigentschaften.txt)
