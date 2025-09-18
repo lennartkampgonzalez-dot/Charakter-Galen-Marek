@@ -13,4 +13,4 @@ Vader wollte Starkiller als Werkzeug, um später Palpatine zu stürzen.
 
 [Zu Biografie](biografie.md)
 
-[Zu Eigenschaften]()
+[Zu Eigenschaften](eigenschaften.txt)
